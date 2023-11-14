@@ -1,0 +1,41 @@
+RADIO FLYSKY FS-16
+
+BIND DO RC
+CABO BIND ULTIMA PORTA
+irá piscar
+press bind e ligar radio
+stop led sinal ok rx
+remove cabo bind
+Concluido
+
+enter menu segurar tecla OK
+
+SYSTEM
+
+CRIAR PERFIL
+MODEL 1 - AIR PLANE
+
+config receptor
+RX > AFHDS-2A - ON
+PPM - OFF
+INTERNAL SENSOR
+FAILSAFE - CONFIGURAR CANAIS
+CHOOSE SENSOR - LISTA DE SENSORES DO RECEPETOR
+FREQUENCIA DO SERVO 50HZ
+STICK MODE 2
+gravação segurar cancel
+
+SETUP CONFIG
+Reverse do canais
+END POINTS - PERCENTUAL PWM PARA CADA CANAL
+Display - nível em cada canal
+Canal aux. chaves superiores
+dual rate - configurar comando suave ou mais agresivo
+Throttle curve - curva de aceleração
+
+DUAL RATE/EXP
+NORMAL
+CHL
+RATE 100
+EXP -30
+MAIS NEGATIVO MAIS SUAVE A CURVA MAIS SUAVE A RESPOSTA DO STICK

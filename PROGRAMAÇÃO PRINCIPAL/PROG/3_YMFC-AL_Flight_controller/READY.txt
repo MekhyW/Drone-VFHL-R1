@@ -1,0 +1,18 @@
+CONTROLADORA DE VOO
+
+COMPILAR >
+
+PRONTO PARA VOO - DESCONECT TO PC
+Ligar o radio com acelerador para baixo
+
+luz acende - calibra o giro - stopped
+
+LIGAR DRONE
+BAIXO e ESQUERDA
+
+DESLIGAR DRONE
+BAIXO E DIREITA
+
+Teste de resposta dos motores para retornar angulo inicial
+aceleração dos motores fora de angulo.
+TESTE DE RESPOSTA

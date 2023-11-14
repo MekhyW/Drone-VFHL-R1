@@ -1,0 +1,42 @@
+CALIBRAÇÃO DO CONTROLE E SENSOR MPU6050 PRIMEIRO PASSO
+
+COMPILAR > 
+MONITOR SERIAL C/RADIO ON
+
+CONFIG 57600 STARTER
+
+MOVE THE THROTTLE STICK TO FULL AND BACK TO CENTER
+stick esquerdo frente e centro
+
+MOVE THE STICK TO SIMULATE LEFT WING UP AND BACK TO CENTER
+stick direito para direita e centro
+
+MOVE THE STICK TO SIMULATE NOSE UP AND BACK TO CENTER
+Mova o elevetor para simular o nariz subir (direito para traz e centro)
+
+MOVE THE YAW STICK TO SIMULATOR NOSE FIGHT AND BACK TO CENTER
+mover o stick esquerdo para direita e centro
+
+WHEN READY PUT THE STICKS BACK IN THEIR CENTER POSITIONS
+mover os dois sticks para todas as posições sentido horário e centralizar
+
+MOVE STICK 'NOSE UP' AND BACK TO CENTER TO CONTINUE
+mover o stick direito para baixo e centralizar
+
+Calibrar a MPU e Calibrando
+giroscópio e acelerometro
+
+GYRO AXES CONFIGURATION
+Subir o lado esquerdo a 45 Graus (10 Segundos para abortar)
+Stick para baixo e centralizar
+
+Subir a frente a 45 Graus (10 segundos para abortar)
+Stick para baixo e centralizar
+
+Virar o Nariz 45 Graus para a direita (10 segundos para abortar)
+Stick para baixo e centralizar
+
+TESTE DOS LEDS
+Stick para baixo e centralizar
+
+CONCLUIDO GRAVADO NA EPROM
